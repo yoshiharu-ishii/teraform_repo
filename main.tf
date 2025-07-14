@@ -18,7 +18,7 @@ provider "aws" {
   profile = "terraform"
   region  = "ap-northeast-1"
   assume_role {
-    role_arn = "arn:aws:iam::012604871205:role/EngineedExam00169"
+    role_arn = ""
   }
 }
 

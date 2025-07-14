@@ -15,7 +15,7 @@ module "subscribe" {
 
   sns_topic_arn = module.topic.topic_arn
   protocol      = "email"
-  endpoint      = "su37superflanker.hal@gmail.com"
+  endpoint      = ""
 
   name              = var.name
   environment       = var.environment
