@@ -1,2 +1,7 @@
 key/
 terraform.tfvars
+.DS_Store
+modules/.DS_Store
+modules/ec2/.DS_Store
+modules/network/.DS_Store
+modules/sns/.DS_Store
